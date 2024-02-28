@@ -14,3 +14,30 @@ Computer port 1 (COM1) on a traditional PC is typically configured as an audio a
 An RS-232 standardization applies to various PC audio attachments, many of which are converted to the 3.5mm or “1/8 inch” standard audio jack on a lot of peripheral hardware.
 
 Generally, the use of these audio ports requires different types of adapters and fittings for backward compatibility as system components evolve from many different manufacturers.
+
+Techopedia Explains Auxiliary Port
+Here’s more on how this type of system worked on traditional PC platforms: the general design involved system resource configurations on a PC where engineering selected these for each port, i.e.: COM1, COM2, COM3, COM4, etc.
+
+Each COM location had an interrupt request (IRQ) address and input/output (I/O).
+
+The IRQ address is a signal sent from a device to the central processing unit (CPU) specifying an event, such as an audio signal starting or stopping.
+
+More recently, auxiliary ports and auxiliary jacks became important for the widespread distribution of digital music, through home or car speakers, or directly from a device. So the auxiliary jack and its corresponding port became extremely useful to users.
+
+That is particularly true in the smartphone world, where the single auxiliary jack provides for so many different uses, for example, watching movies or television programming with high-quality audio direct to your headphones, playing music through headphones, participating in conference calls through a headset, etc.
+
+With that in mind, one of the most significant pivotal changes in Apple’s smartphone design philosophy occurred when Apple took the conventional auxiliary port away from newer iPhone models.
+
+This required the purchase of specialized headsets and other gear that plug in through the lightning port. While defended vehemently by Apple, the move was unpopular with a wide range of users, and remains an example of unanticipated interface problems that are created by the manufacturer.
+
+Generally speaking, now that many standard auxiliary reports are becoming obsolete, companies are finding ways to make new systems backward-compatible to older devices, or in other words, to adapt older devices to play music.
+
+New smartphone models have a universal audio port design, at least, they did until the idea of Lightning-port-audio came along.
+
+Now, the debate around audio connectivity is a major interest in the mobile device world. Increasingly, wireless design is making the auxiliary port obsolete.
+
+Another design principle is the “build in” of input devices and peripherals into primary devices. Examples include the shift from USB-connected webcams to cameras built into laptops, and the move from traditional mouse designs to trackpads and touchscreen interfaces.
+
+Now, we use auxiliary ports less, because there are fewer peripheral devices to connect them to.
+
+All of this prefigures a new set of interface paradigms that will continue to evolve in the smartphone era, where the auxiliary port is much less of a presence than it used to be.
